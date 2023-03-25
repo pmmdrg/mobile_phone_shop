@@ -148,18 +148,18 @@ class _MainPageBodyState extends State<MainPageBody> {
                                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                                 children: [
                                   IconAndText(
-                                    icon: Icons.circle_sharp,
-                                    text: "Normal",
+                                    icon: Icons.developer_board_outlined,
+                                    text: "Snapdragon 8 Gen 2",
                                     iconColor: AppColors.iconColor1,
                                   ),
                                   IconAndText(
-                                    icon: Icons.location_on,
-                                    text: "1.7km",
+                                    icon: Icons.memory_outlined,
+                                    text: "8 GB",
                                     iconColor: AppColors.mainColor,
                                   ),
                                   IconAndText(
-                                    icon: Icons.access_time_rounded,
-                                    text: "32 min",
+                                    icon: Icons.lens_blur_outlined,
+                                    text: "256 GB",
                                     iconColor: AppColors.iconColor2,
                                   ),
                                 ],
