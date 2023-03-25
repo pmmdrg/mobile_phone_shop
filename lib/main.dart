@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Mobile Shop',
+      title: 'Mobile Phone Shop',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
